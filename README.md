@@ -1,4 +1,12 @@
 ### Hi there 👋
+# My name is Randy and I am currently a student at the University of Minnesota.
+
+Current Projects:
+- Project Skill Tree
+- My personal Website
+- Tales of the Horns (My Unity Game)
+
+Connect With Me:
 
 <!--
 **iamRandy/iamRandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
