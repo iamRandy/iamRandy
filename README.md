@@ -8,6 +8,10 @@ Current Projects:
 
 Connect With Me:
 
+
+What I know:
+
+What I am excited to learn about:
 <!--
 **iamRandy/iamRandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
