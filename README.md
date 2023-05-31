@@ -1,5 +1,5 @@
-### Hi there 👋
-# My name is Randy and I am currently a student at the University of Minnesota.
+# Hi there 👋
+## My name is Randy and I am currently a student at the University of Minnesota.
 
 Current Projects:
 - Project Skill Tree
