@@ -1,8 +1,8 @@
 <h1 align="center">Hi there!<img src="https://gifdb.com/images/high/heart-cheeks-cute-wave-wzwmnpr1f3b8mu4i.gif" width="100" height="100"/></h1>
-<h2 align="center">My name is Randy and I'm pursuing computer science. Nice to meet you!</h2>
+<h2 align="center">My name is Randy and I'm proudly pursuing computer science. Nice to meet you!</h2>
 
 
-Checkout my <a target="blank" href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!
+<i><h6 align="center">Checkout my <a target="blank" href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
 Current Projects:
 - <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
