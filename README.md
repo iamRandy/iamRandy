@@ -1,4 +1,4 @@
-<center># Hi 👋 </center>
+#<center> Hi 👋 </center>
 ## I'm Randy and I am currently a student at the University of Minnesota.
 
 Current Projects:
