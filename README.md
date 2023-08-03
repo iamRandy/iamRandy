@@ -2,7 +2,7 @@
 <h2 align="center">My name is Randy and I'm proudly pursuing computer science. Nice to meet you!</h2>
 
 
-<i><h6 align="center">Checkout my <a target="blank" href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
+<i><h6 align="center">Checkout my <a target="_blank" href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
 <b>CURRENT PROJECTS:</b>
 - <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
