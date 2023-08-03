@@ -1,5 +1,8 @@
-#<center> Hi 👋 </center>
-## I'm Randy and I am currently a student at the University of Minnesota.
+<div style="text-align: center;">
+  <h1>Hi 👋</h1>
+  <h2>I'm Randy and I am currently a student at the University of Minnesota.</h2>
+</div>
+
 
 Current Projects:
 - Project Skill Tree
