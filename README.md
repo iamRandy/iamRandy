@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋</h1>
-<h2 align="center">I'm Randy and I am currently a student at the University of Minnesota.</h2>
+<h1 align="center">Hi there!<img src="https://gifdb.com/images/high/heart-cheeks-cute-wave-wzwmnpr1f3b8mu4i.gif" width="100" height="100"/></h1>
+<h2 align="center">My name is Randy and I'm pursuing computer science. Nice to meet you!</h2>
 
 
+Checkout my <a target="blank" href="iamrandy.github.io">personal website</a> to see my past and current projects!
+<br><br>
 Current Projects:
 - <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
-- My personal Website
 - Tales of the Horns (My Unity Game)
 
-Connect With Me:
+<b>CONNECT :)</b><br>
+
 <a target="blank" href="https://www.linkedin.com/in/randythai/"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
+<br><br>
 
-
-What I know:  
+<b>WHAT I KNOW:</b>  
 <img height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> 
 <img height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> 
