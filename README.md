@@ -4,13 +4,14 @@
 
 <i><h6 align="center">Checkout my <a target="blank" href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
-Current Projects:
+<b>CURRENT PROJECTS:</b>
 - <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
 - Tales of the Horns (My Unity Game)
 
 <b>CONNECT :)</b><br>
 
 <a target="blank" href="https://www.linkedin.com/in/randythai/"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
+<a href="mailto:randythai360@gmail.com"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 <br><br>
 
 <b>WHAT I KNOW:</b>  
