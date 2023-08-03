@@ -7,7 +7,7 @@ Current Projects:
 - Tales of the Horns (My Unity Game)
 
 Connect With Me:
-![image](https://github.com/iamRandy/iamRandy/assets/41447760/a255b9ab-ba44-4844-8f7e-bec7d4161f86)
+![image](https://github.com/iamRandy/iamRandy/assets/41447760/a255b9ab-ba44-4844-8f7e-bec7d4161f86 | width=100)
 
 
 What I know:
