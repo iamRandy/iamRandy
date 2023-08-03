@@ -1,16 +1,14 @@
-<div style="text-align: center;">
-  <h1>Hi 👋</h1>
-  <h2>I'm Randy and I am currently a student at the University of Minnesota.</h2>
-</div>
+<h1 align="center">Hi 👋</h1>
+<h2 align="center">I'm Randy and I am currently a student at the University of Minnesota.</h2>
 
 
 Current Projects:
-- Project Skill Tree
+- <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
 - My personal Website
 - Tales of the Horns (My Unity Game)
 
 Connect With Me:
-<a target="_blank" href="https://www.linkedin.com/in/randythai/"> ![linkedin](linkedinlogo.png) </a>
+<a target="blank" href="https://www.linkedin.com/in/randythai/"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
 
 
 What I know:
