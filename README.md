@@ -1,5 +1,5 @@
 # Hi 👋
-##<center> I'm Randy and I am currently a student at the University of Minnesota.
+## I'm Randy and I am currently a student at the University of Minnesota.
 
 Current Projects:
 - Project Skill Tree
@@ -7,7 +7,7 @@ Current Projects:
 - Tales of the Horns (My Unity Game)
 
 Connect With Me:
-![image](LinkedIn_logo_initials.png)
+<a href="https://www.linkedin.com/in/randythai/">![image](LinkedIn_logo_initials.png)</a>
 
 
 What I know:
