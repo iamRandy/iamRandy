@@ -7,7 +7,7 @@ Current Projects:
 - Tales of the Horns (My Unity Game)
 
 Connect With Me:
-<img src="LinkedIn_logo_initials.png" alt="linkedin" width="200" href="https://www.linkedin.com/in/randythai/">
+![linkedin](linkedinlogo.png)
 
 
 What I know:
