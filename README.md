@@ -6,7 +6,7 @@
 <br><br>
 <b>CURRENT PROJECTS:</b>
 - <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
-- Tales of the Horns (My Unity Game)
+- Tales of the Wind (My Unity Game)
 
 <b>CONNECT :)</b><br>
 
