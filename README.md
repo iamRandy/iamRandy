@@ -25,8 +25,7 @@
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/> 
 
 
-<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/> 
-<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> 
+<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/> <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> 
 
 WHAT I'M EXCITED TO LEARN ABOUT:<br><br>
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/> 
