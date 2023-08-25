@@ -27,8 +27,8 @@
 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/> <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> 
 
-WHAT I'M EXCITED TO LEARN ABOUT:<br><br>
-<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/> 
+CURRENTLY LEARNING ABOUT...<br>
+<img height="100" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/> 
 <!--
 **iamRandy/iamRandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
