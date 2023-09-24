@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi there!</h1>
-  <img height="60" width="60" src="https://github.com/iamRandy/iamRandy/blob/main/wavegif.gif" alt="Your Image">
+Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/blob/main/wavegif.gif" alt="Your Image">
 </div>
 <h2 align="center">My name is Randy and I'm proudly pursuing computer science. Nice to meet you!</h2>
 
