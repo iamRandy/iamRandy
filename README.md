@@ -1,7 +1,10 @@
 <div align="center">
+
 Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/blob/main/wavegif.gif" alt="Your Image">
+
+## My name is Randy and I'm proudly pursuing computer science. Nice to meet you!
+ 
 </div>
-<h2 align="center">My name is Randy and I'm proudly pursuing computer science. Nice to meet you!</h2>
 
 
 <i><h6 align="center">Checkout my <a href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
