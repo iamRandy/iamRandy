@@ -10,7 +10,7 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <i><h6 align="center">Checkout my <a href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
 <b>CURRENT PROJECTS:</b>
-- <a href="https://github.com/iamRandy/projectSkillTree"> Project Skill Tree </a>
+- <a href="https://iamrandy.github.io"> Personal Website </a>
 - Tales of the Wind (My Unity Game)
 
 <b>CONNECT :)</b><br>
