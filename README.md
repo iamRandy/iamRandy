@@ -19,7 +19,7 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <a href="mailto:randythai360@gmail.com"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 <br><br>
 
-<b>WHAT I KNOW:</b> <br><br>
+<b>WHAT I KNOW:</b> <br>
 <img height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/> 
 <img height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/> 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> 
