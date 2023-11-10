@@ -10,8 +10,8 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <i><h6 align="center">Checkout my <a href="https://iamrandy.github.io/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
 <b>CURRENT PROJECTS:</b>
-- <a href="https://iamrandy.github.io"> Personal Website </a>
-- Tales of the Wind (My Unity Game)
+- <a href="https://iamrandy.github.io">Personal Website </a>
+- <a href="https://github.com/iamRandy/AzureProject">Learning some Azure </a>
 
 <b>CONNECT :)</b><br>
 
