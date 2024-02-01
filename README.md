@@ -29,7 +29,9 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/> 
 <img height="30" width="28" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/> 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/> 
-<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/> 
+<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
+<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
+<img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/OCaml_Logo.svg"/>
 
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> <img height="60" width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
 <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
