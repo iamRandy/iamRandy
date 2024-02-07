@@ -11,8 +11,6 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <br><br>
 <b>CURRENT PROJECTS:</b>
 - <a href="https://iamrandy.github.io">Personal Website </a>
-- <a href="https://github.com/iamRandy/AzureProject">Learning some Azure</a>
-- <a href="https://github.com/iamRandy/projectGYM">Gopher GYM App</a>
 
 <b>CONNECT :)</b><br>
 
