@@ -10,7 +10,7 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
 <i><h6 align="center">Checkout my <a href="https://randythai.com/">personal website</a> to see my past and current projects!</h6></i>
 <br><br>
 <b>CURRENT PROJECTS:</b>
-- <a href="https://iamrandy.github.io">Personal Website </a>
+- <a href="https://randythai.com">Look for a job  ¯\_(ツ)_/¯</a>
 
 <b>CONNECT :)</b><br>
 
