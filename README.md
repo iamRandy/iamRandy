@@ -6,17 +6,21 @@ Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/b
  
 </div>
 
-
 <i><h6 align="center">Checkout my <a href="https://randythai.com/">personal website</a> to see my past and current projects!</h6></i>
-<br><br>
-<b>CURRENT PROJECTS:</b>
-- <a href="https://github.com/iamRandy/ChatRPG">ChatRPG</a>
+<div align="center">
 
-<b>CONNECT :)</b><br>
+ |
 
-<a href="https://www.linkedin.com/in/randythai/"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
-<a href="mailto:randythai360@gmail.com"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
-<br><br>
+ <b>Current projects ~</b><br>
+ <a href="https://github.com/iamRandy/ChatRPG">⚔️ ChatRPG</a>
+
+ |
+ 
+ <b>Connect with me ~</b><br>
+ <a href="https://www.linkedin.com/in/randythai/"><img height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /> </a>
+ <a href="mailto:randythai360@gmail.com"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+</div>
+ 
 <!--
 **iamRandy/iamRandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
