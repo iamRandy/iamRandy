@@ -2,7 +2,7 @@
 
 Hi there!<img height="60" width="60" src="https://github.com/iamRandy/iamRandy/blob/main/wavegif.gif" alt="Your Image">
 
-## My name is Randy and I'm a computer science student with design experience. <br>Nice to meet you!
+## My name is Randy and I'm a Software Engineer with design experience. <br>Nice to meet you!
  
 </div>
 
